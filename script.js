@@ -1,0 +1,1 @@
+window.alert("0/0 is undefined = " + 0/0)
